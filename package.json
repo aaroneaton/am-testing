@@ -1,0 +1,16 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "Testing, fools!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "J. Aaron Eaton",
+  "license": "GPL-2.0+",
+  "devDependencies": {
+    "babel-jest": "^15.0.0",
+    "babel-polyfill": "^6.13.0",
+    "jest-cli": "^15.1.0"
+  }
+}
